@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../unilab tasks/1st project"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "unilab2"
+	}
+}

@@ -1,0 +1,111 @@
+/* Home Page */
+header {
+    border-bottom: 2px solid;
+    padding: 30px 10px 15px 7px;
+}
+
+ul {
+    text-align: center;
+}
+li {
+    display: inline;  
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large
+}
+
+.about {
+    margin: 0 100px;
+}
+
+.box {
+    display:inline-block    
+}
+
+.box-wrapper {
+    border: 1px solid black;
+    margin-top: 150px;
+    margin-inline: 40px;
+    width: 350px;
+    height: 490px;
+}
+
+img{
+    padding: 21px 30px 15px 21px;
+}
+
+h4 {
+    margin-left: 45px;
+}
+
+p {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+button {
+   margin-top: 20px;
+   margin-left: 304px;
+}
+
+.rights {
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+/* About Us Page */
+.aboutus{
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 350px;
+}
+
+.adress2 {
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.rights1 {
+    margin-top: 200px;
+    text-align: center;
+}
+/* Contat Us Page */
+h1 {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.mail{
+    margin-top: 100px;
+    margin-left: 0px;
+    font-size: 25px;
+}
+
+.info {
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 25px;
+
+}
+
+
+.adress1 {
+    font-style: normal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+    
+.rights2 {
+    margin-top: 268px;
+    text-align: center;
+}
